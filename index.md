@@ -1,7 +1,7 @@
 <html>
 <title>The Anh BTVN</title>
 <body>
-<input type="password">Nhap Mat Khau</input>
+<input type="password">
 </body>
 
 </html>
